@@ -1,0 +1,96 @@
+{
+    "quizz": 
+    {
+        "questions": 
+        [
+            {
+                "statement" : "Who created Ethereum ?",
+                "choices":
+                    {
+                        "type": "single",
+                        "correctChoice":
+                            {
+                                "statement": "Vitalik"
+                            },
+                        "incorrectChoices":
+                            [
+                                {
+                                    "statement": "Satoshi Nakamoto"
+                                },
+                                {
+                                    "statement": "Bill Gates"
+                                }
+                            ]
+                    }
+            },
+            {
+                "statement" : "Who created Bitcoin ?",
+                "choices":
+                    {
+                        "type": "single",
+                        "correctChoice":
+                            {
+                                "statement": "Satoshi Nakamoto"
+                            },
+                        "incorrectChoices":
+                            [
+                                {
+                                    "statement": "Vitalik"
+                                },
+                                {
+                                    "statement": "Bill Gates"
+                                }
+                            ]
+                    }
+            },
+            {
+                "statement" : "Who created Microsoft ?",
+                "choices":
+                    {
+                        "type": "single",
+                        "correctChoice":
+                            {
+                                "statement": "Bill Gates"
+                            },
+                        "incorrectChoices":
+                            [
+                                {
+                                    "statement": "Vitalik"
+                                },
+                                {
+                                    "statement": "Satoshi Nakamoto"
+                                }
+                            ]
+                    }
+            },
+            {
+                "statement" : "Who created Microsoft ?",
+                "choices":
+                    {
+                        "type": "multiple",
+                        "correctChoice":
+                        [
+                            {
+                                "statement": "Steve Jobs"
+                            },
+                            {
+                                "statement": "Steve Wozniak"
+                            }
+                        ],  
+                        "incorrectChoices":
+                            [
+                                {
+                                    "statement": "Bill Gates"
+                                },
+                                {
+                                    "statement": "Vitalik"
+                                },
+                                {
+                                    "statement": "Satoshi Nakamoto"
+                                }
+                            ]
+                    }
+            }
+        ]
+    }
+}
