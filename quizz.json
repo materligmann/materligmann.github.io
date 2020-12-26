@@ -44,7 +44,7 @@
                     }
             },
             {
-                "statement" : "Who founded Apple ?",
+                "statement" : "Who created Microsoft ?",
                 "choices":
                     {
                         "type": "single",
@@ -64,7 +64,7 @@
                     }
             },
             {
-                "statement" : "Who created Microsoft ?",
+                "statement" : "Who founded Apple ?",
                 "choices":
                     {
                         "type": "multiple",
