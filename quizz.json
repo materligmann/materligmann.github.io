@@ -5,6 +5,7 @@
         [
             {
                 "statement" : "Who created Ethereum ?",
+                "explanation" : "Vitalik !",
                 "choices":
                     {
                         "type": "single",
@@ -25,6 +26,7 @@
             },
             {
                 "statement" : "Who created Bitcoin ?",
+                "explanation" : "Satoshi Nakamoto !",
                 "choices":
                     {
                         "type": "single",
@@ -45,6 +47,7 @@
             },
             {
                 "statement" : "Who created Microsoft ?",
+                "explanation": "Bill Gates !",
                 "choices":
                     {
                         "type": "single",
@@ -65,6 +68,7 @@
             },
             {
                 "statement" : "Who founded Apple ?",
+                "explanation": "Steve Jobs and Steve Wozniak !",
                 "choices":
                     {
                         "type": "multiple",
